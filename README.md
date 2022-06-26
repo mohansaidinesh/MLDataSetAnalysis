@@ -1,2 +1,2 @@
 # MLDataSetAnalysis
-It helps us to know which algorithm best suits for the DataSet in MachineLearning
+### For a input dataset this will analyze which algorithm works better 
